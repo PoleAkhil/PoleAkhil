@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoleAkhil
-- 👀 I’m interested in HTML,XML,JS
-- 🌱 I’m currently learning web technologies
+- 👀 I’m interested in ML and AI
+- 🌱 I’m currently learning Machine Learning and AI infrastructures
 - I'm looking for a tutor who can help me out here
 
 <!---
